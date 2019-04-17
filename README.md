@@ -54,7 +54,7 @@ java hangman/hangman
 * **Veronica Mayorga**
 
 ## Acknowledgements
-Thanks to REACH Linkedin program for the challenge for the API and the challenge! :smile: :+1: :+1: 
+Thanks to REACH Linkedin program for the challenge for the [word dictionary API](http://app.linkedin-reach.io/words) and the coding challenge! :smile: :+1: :+1: 
 
 
 
