@@ -46,13 +46,13 @@ Copy the class files to 'bin/hangman' from your working directory:
 ```
 cp sr/hangman/*.class bin/hangman/
 ```
-Run the commandline program:
+Run the command line program:
 ```
 java hangman/hangman
 ```
 
 ## Sample screenshot
-![](http://i64.tinypic.com/2z4n4me.png)
+![](http://i66.tinypic.com/24fjlo2.png)
 ## Authors
 * **Veronica Mayorga**
 
