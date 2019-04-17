@@ -113,12 +113,10 @@ public class Round {
 	private void processUserGuessInput()
 	{
 		String input = "";
-		// Scanner reader = new Scanner(System.in);
 		do {
 			printUserGuessPrompt(this.word, this.numGuessesRemaining);
-			input = reader.nextLine().trim();
+			input = reader.nextLine().trim().toLowerCase();
 		} while (!isUserGuessInputValid(input));
-		// reader.close();
 	}
 
 	private static void printUserGuessPrompt(Word word, int numGuessesRemaining)
