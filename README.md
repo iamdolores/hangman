@@ -35,7 +35,7 @@ Download and put the java source files in 'src/hangman'.
 
 Compile the source files from your working directory:
 ```
-javac src/hangman/\*.java
+javac src/hangman/*.java
 ```
 Create a directory structure for the class files in your working directory:
 ```
@@ -44,7 +44,7 @@ mkdir bin/hangman
 ```
 Copy the class files to 'bin/hangman' from your working directory:
 ```
-cp sr/hangman/\*.class bin/hangman/
+cp sr/hangman/*.class bin/hangman/
 ```
 Run the commandline program:
 ```
@@ -54,7 +54,7 @@ java hangman/hangman
 * **Veronica Mayorga**
 
 ## Acknowledgements
-Thanks to REACH Linkedin program for the challenge for the API and the challenge! :smiley: 
+Thanks to REACH Linkedin program for the challenge for the API and the challenge! :smile: :+1: :+1: 
 
 
 
