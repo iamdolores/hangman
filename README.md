@@ -1,6 +1,6 @@
 # Word Guessing Game
 
-This version of the word guessing game Hangman has a command line interface and is written in java.  The game uses "secret words" from the following [word dictionary API](http://app.linkedin-reach.io/words).  
+This version of the word guessing game Hangman has a command line interface and is written in java.  The game uses "secret words" from [this word dictionary API](http://app.linkedin-reach.io/words).  
 
 The player can complete the "secret word" by making letter or word guesses.  If she makes the `MAX_GUESSES_ALLOWED` (in this case 6) of incorrect guesses, she loses.  If the player guesses the word before losing, she earns points based on the difficulty of the word and the number of wrong guesses she made according to the following formula: 
 
