@@ -1,12 +1,12 @@
 # Word Guessing Game
 
-This version of the word guessing game Hangman has a command line interface and is written in java.  The game uses "secret words" from the following word dictionary API: http://app.linkedin-reach.io/words.  
+This version of the word guessing game Hangman has a command line interface and is written in java.  The game uses "secret words" from the following [word dictionary API](http://app.linkedin-reach.io/words).  
 
 The player can complete the "secret word" by making letter or word guesses.  If she makes the MAX_GUESSES_ALLOWED (in this case 6) of incorrect guesses, she loses.  If the player guesses the word before losing, she earns points based on the difficulty of the word and the number of wrong guesses she made according to the following formula: 
 
-ROUND_POINTS = GUESSES_REMAINING * DIFFICULTY_LEVEL,
+**ROUND_POINTS = GUESSES_REMAINING * DIFFICULTY_LEVEL**,
 
-where GUESSES_REMAINING = MAX_GUESSES_ALLOWED - WRONG_GUESSES_MADE.
+where **GUESSES_REMAINING = MAX_GUESSES_ALLOWED - WRONG_GUESSES_MADE**.
 
 The player enters a name and difficulty level for each round.  Each player's name must be unique and there are 10 levels of difficulty, integers between 1 and 10.  The game allows the players to play multiple rounds and accumulate points.
 
@@ -20,10 +20,11 @@ Happy word guessing!
 
 ### Prerequisites
 This program runs on java version:
+```
 java 10.0.1 2018-04-17
 Java(TM) SE Runtime Environment 18.3 (build 10.0.1+10)
 Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.1+10, mixed mode)
-
+```
 ### Download and Run
 Create a directory structure for the source files in your working directory:
 ```
@@ -53,7 +54,7 @@ java hangman/hangman
 * **Veronica Mayorga**
 
 ## Acknowledgements
-Thanks to REACH Linkedin program for the challenge for the API and the challenge!
+Thanks to REACH Linkedin program for the challenge for the API and the challenge! :smiley: 
 
 
 
