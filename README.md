@@ -19,7 +19,7 @@ Happy word guessing!
 ## Getting Started
 
 ### Prerequisites
-This program runs on java version:
+This program runs on the following java version:
 ```
 java 10.0.1 2018-04-17
 Java(TM) SE Runtime Environment 18.3 (build 10.0.1+10)
