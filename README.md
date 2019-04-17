@@ -12,7 +12,7 @@ The player enters a name and difficulty level for each round.  Each player's nam
 
 The game is set to keep track of a maximum of ten players.  It stores the player information in a file so that it can be used across game sessions.  It keeps the top 9 players based on points and replaces the 10th player with the most recent player.  
 
-The game also keeps track of the words used from the word dictionary API in a file so that the game can use new "secret words" across game sessions.  Once all the words for each difficulty level are used, the game resets and recycles the words for each difficulty level individually.
+The game also keeps track of the words used from the word dictionary API in a file so that the game can use new "secret words" across game sessions.  Once all the words for a difficulty level have been used, the game resets and recycles the words for each difficulty level individually.
 
 Happy word guessing!
 
