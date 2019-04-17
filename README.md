@@ -50,6 +50,9 @@ Run the commandline program:
 ```
 java hangman/hangman
 ```
+
+## Sample screenshot
+[IMG]http://i64.tinypic.com/2z4n4me.png[/IMG]
 ## Authors
 * **Veronica Mayorga**
 
