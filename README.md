@@ -52,7 +52,7 @@ java hangman/hangman
 ```
 
 ## Sample screenshot
-![](http://i64.tinypic.com/2z4n4me.png =250x)
+![](http://i64.tinypic.com/2z4n4me.png)
 ## Authors
 * **Veronica Mayorga**
 
