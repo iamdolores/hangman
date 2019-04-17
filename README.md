@@ -31,7 +31,7 @@ Create a directory structure for the source files in your working directory:
 mkdir src
 mkdir src/hangman
 ```
-Download and put the java source files in 'src/hangman'.  
+Download and put the java source files in `src/hangman`.  
 
 Compile the source files from your working directory:
 ```
