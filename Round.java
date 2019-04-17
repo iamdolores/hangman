@@ -84,7 +84,9 @@ public class Round {
 	{
 		printNewLines(10);
 		System.out.println(String.format("%n%nSorry %1$s! You lost this round.%n", this.player.getName()));
+		System.out.println(String.format("Word state: %1$s%n", word.getPlayerWord().toUpperCase()));
 		printEndGameSummary();
+
 	}
 
 	private void printEndGameSummary()
